@@ -1,3 +1,3 @@
 # UoHCS
-here I save exercises from open computer science course of University of Helsinki
-fullstack development (MERN)
+here I save exercises from open computer science fullstack development (MERN)
+course of University of Helsinki
