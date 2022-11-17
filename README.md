@@ -1,2 +1,3 @@
 # UoHCS
-here I save exercises from open computer science course of University of Helsinki
+here I save my progress of open fullstack development (MERN)
+course of University of Helsinki
