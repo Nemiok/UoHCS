@@ -1,0 +1,3 @@
+[submodule "Module_5/bloglist-frontend"]
+	path = Module_5/bloglist-frontend
+	url = https://github.com/Nemiok/UoHCS/tree/main/Module_5
