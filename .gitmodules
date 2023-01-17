@@ -1,0 +1,6 @@
+[submodule "Module_6/redux-anecdotes"]
+	path = Module_6/redux-anecdotes
+	url = https://github.com/Nemiok/UoHCS.git
+[submodule "Module_6/unicafe-redux"]
+	path = Module_6/unicafe-redux
+	url = https://github.com/Nemiok/UoHCS.git
